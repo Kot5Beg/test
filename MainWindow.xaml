@@ -17,6 +17,10 @@
                 </TransformGroup>
             </Button.RenderTransform>
         </Button>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="116,81,0,0" VerticalAlignment="Top" Height="113" Width="175"/>
+        <Border BorderBrush="Black" BorderThickness="1">
+            <TextBox Height="NaN" TextWrapping="Wrap" Text="TextBox" Width="NaN"/>
+        </Border>
 
     </Grid>
 </Window>
